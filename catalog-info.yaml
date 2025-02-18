@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hello
+  description: |
+    Says hello to people!
+  links:
+    - title: Go
+      url: https://go.dev
+  annotations:
+    github.com/project-slug: zhaho/hello
+spec:
+  type: library
+  owner: Kenneth Ros
+  lifecycle: production
