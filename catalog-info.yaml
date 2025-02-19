@@ -10,6 +10,10 @@ metadata:
   annotations:
     github.com/project-slug: zhaho/hello
     backstage.io/techdocs-ref: dir:.
+  tags:
+    - pointless
+    - useless
+    - no value
 spec:
   type: library
   owner: Kenneth Ros
