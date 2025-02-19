@@ -9,6 +9,7 @@ metadata:
       url: https://go.dev
   annotations:
     github.com/project-slug: zhaho/hello
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: library
   owner: Kenneth Ros
